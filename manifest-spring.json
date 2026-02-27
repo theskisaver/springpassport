@@ -2,6 +2,7 @@
   "name": "Spring Passport",
   "short_name": "Spring",
   "start_url": "/spring-your-passport",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1e3a5f",
