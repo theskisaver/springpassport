@@ -1,0 +1,20 @@
+{
+  "name": "Spring Passport",
+  "short_name": "Spring",
+  "start_url": "/spring-passport-home",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a5f",
+  "icons": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/67c5d9fdaa2f8511619893d3/e433b2c4-51a4-4797-ab0b-634a53737e0c/Spring+Passport+App+Logo.png?format=750w",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "PASTE-512-SPRING-ICON",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
